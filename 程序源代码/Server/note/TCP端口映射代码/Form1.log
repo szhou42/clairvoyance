@@ -1,0 +1,12 @@
+行 80: 控件 Server 的类 MSWinsockLib.Winsock 不是一个已加载的控件类。
+行 87: 控件 Client 的类 MSWinsockLib.Winsock 不是一个已加载的控件类。
+行 94: 控件 Listen 的类 MSWinsockLib.Winsock 不是一个已加载的控件类。
+行 83: 属性名 _ExtentX 在 Server 中是无效的。
+行 84: 属性名 _ExtentY 在 Server 中是无效的。
+行 85: 属性名 _Version 在 Server 中是无效的。
+行 90: 属性名 _ExtentX 在 Client 中是无效的。
+行 91: 属性名 _ExtentY 在 Client 中是无效的。
+行 92: 属性名 _Version 在 Client 中是无效的。
+行 97: 属性名 _ExtentX 在 Listen 中是无效的。
+行 98: 属性名 _ExtentY 在 Listen 中是无效的。
+行 99: 属性名 _Version 在 Listen 中是无效的。
